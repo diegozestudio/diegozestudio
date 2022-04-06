@@ -1,5 +1,5 @@
 <h1 align="center">Hola Mundo 👋, un gusto saludarlos!</h1>
-<h1 align="center">Soy Diego Zamora</h1>
+<h2 align="center">Soy Diego Zamora</h2>
 <h3 align="center">Full Stack Web Developer y Diseñador Gráfico</h3>
 
 - 👨‍💻 Actualmente trabajando en <a href='https://github.com/martinsione/ticketek-web3'>NFTicket</a>
