@@ -7,4 +7,4 @@
 - 🌱 Aprendiendo TypeScript, Next.js y Chakra UI
 - 💬 Con conocimiento en React, Redux, HTML, CSS, Node, Express y SQL
 - ⛓  Apasionado por la Programación y el Diseño Gráfico
-- 📫 Contactame en <a href="https://www.linkedin.com/in/diegozestudio/" >Linkedin</a>
+- 📫 Contáctame en <a href="https://www.linkedin.com/in/diegozestudio/" >Linkedin</a>
