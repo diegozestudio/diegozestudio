@@ -1,10 +1,7 @@
 <h1 align="center">Hola Mundo 👋, un gusto saludarlos!</h1>
 <h3 align="center">Soy Diego Zamora - Full Stack Web Developer y Diseñador Gráfico</h3>
 
-<br/>
 <hr/>
-<br/>
-
 
 - 👨‍💻 Actualmente trabajando en <a href='https://github.com/martinsione/ticketek-web3'>NFTicket</a>
 - 🌱 Aprendiendo TypeScript, Next.js y Chakra UI
