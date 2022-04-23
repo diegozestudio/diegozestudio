@@ -1,4 +1,4 @@
-<h1 align="center">Hola Mundo 👋, un gusto saludarlos!</h1>
+<h1 align="center">Hola Mundo 👋</h1>
 <h3 align="center">Soy Diego Zamora - Full Stack Web Developer y Diseñador Gráfico</h3>
 
 <hr/>
