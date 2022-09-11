@@ -10,5 +10,5 @@
 - 📫 Contáctame en <a href="https://www.linkedin.com/in/diegozestudio/" >Linkedin</a>
 
 
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=areyouivan&show_icons=true&theme=city_lights)](https://github.com/diegozestudio/github-readme-stats)|![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=areyouivan&show_icons=true&theme=city_lights)|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegozestudio&show_icons=true&theme=city_lights)](https://github.com/diegozestudio/github-readme-stats)|![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegozestudio&show_icons=true&theme=city_lights)|
 |---|---|
